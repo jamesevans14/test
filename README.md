@@ -1,2 +1,2 @@
-#test 
-Console.Write("Hi");
+# test
+test2
